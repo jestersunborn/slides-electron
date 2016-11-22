@@ -28,3 +28,4 @@ This is my slides for speech [@ChernivtsiJS](https://github.com/chernivtsijs) ab
 - Qr-codes to example applications
 - My nickname, my personal site and @ChernivtsiJS site
 - Questions
+- Death
