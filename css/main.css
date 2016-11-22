@@ -17,11 +17,25 @@ body {
 	color: #2B2E3B;
 }
 
+.who-use-it {
+	position: relative;
+}
+
+.who-use-it .wrap-logos img {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.where-use-it,
+.about-electron,
 .start {
 	background-color: #2B2E3B !important;
 }
 
-.start h4 {
+.where-use-it h3,
+.about-electron ul,
+.about-electron h3,
+.start h3 {
 	color: #9EE9F8 !important;
 }
 

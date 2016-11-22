@@ -21,7 +21,7 @@ This is my slides for speech on [@ChernivtsiJS](https://github.com/chernivtsijs)
    - Rename to Electron
   - What is Electron
     - What Electron use inside?
-  - What we can use?
+  - What can we use?
   - Where we can use it?
 - Simple app on Electron
 - Simple app on Electron with live-reload
