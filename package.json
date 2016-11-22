@@ -1,0 +1,13 @@
+{
+  "name": "slides-electron",
+  "version": "1.0.0",
+  "description": "This is my slides for speech @ChernivtsiJS about Electron.",
+  "homepage": "https://jestersunborn.github.io/slides-electron/",
+  "main": "js/reveal.js",
+  "author": "Jester Sunborn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jestersunborn/slides-electron"
+  },
+  "license": "MIT"
+}

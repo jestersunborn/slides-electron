@@ -1,0 +1,26 @@
+section span {
+	font-size: .9em !important;
+}
+
+
+body {
+	background-color: #2B2E3B !important;
+	color: #9EE9F8;
+}
+
+p.center {
+	text-align: center;
+}
+
+p.big {
+	font-size: 1.5em;
+}
+
+img.small {
+	vertical-align: middle;
+	padding-left: 30px;
+	width: 30%;
+	border: none !important;
+	box-shadow: none !important;
+	background-color: transparent !important;
+}
