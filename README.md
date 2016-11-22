@@ -21,9 +21,10 @@ This is my slides for speech [@ChernivtsiJS](https://github.com/chernivtsijs) ab
   - Where we can use it?
 - Simple app on Electron
 - Simple app on Electron with live-reload
-- Simple app on Electron with nodejs(Express)
-- Build to .deb/.exe/
+- Simple app on Electron with node.js(Express)
+- Build to `.deb`/`.exe`/`.dmg`
 - Few words about "Do not use this everywhere. Just know that it exists."
 - Qr-code with slides
-- My nickname and my personal site and @ChernivtsiJS site
+- Qr-codes to example applications
+- My nickname, my personal site and @ChernivtsiJS site
 - Questions
