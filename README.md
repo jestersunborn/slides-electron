@@ -1,6 +1,10 @@
 # slides-electron
 This is my slides for speech [@ChernivtsiJS](https://github.com/chernivtsijs) about Electron.
 
+# Site with slides:
+
+[jestersunborn.github.io/slides-electron/](https://jestersunborn.github.io/slides-electron/)
+
 # Plan:
 
 - Few words about me
