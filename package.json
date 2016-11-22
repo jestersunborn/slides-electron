@@ -1,7 +1,7 @@
 {
   "name": "slides-electron",
   "version": "1.0.0",
-  "description": "This is my slides for speech @ChernivtsiJS about Electron.",
+  "description": "This is my slides for speech on @ChernivtsiJS about Electron.",
   "homepage": "https://jestersunborn.github.io/slides-electron/",
   "main": "js/reveal.js",
   "author": "Jester Sunborn",

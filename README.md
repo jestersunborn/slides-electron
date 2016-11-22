@@ -1,5 +1,5 @@
 # slides-electron
-This is my slides for speech [@ChernivtsiJS](https://github.com/chernivtsijs) about Electron.
+This is my slides for speech on [@ChernivtsiJS](https://github.com/chernivtsijs) about Electron.
 
 # Site with slides:
 
