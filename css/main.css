@@ -4,9 +4,37 @@ section span {
 
 
 body {
-	background-color: #2B2E3B !important;
 	color: #9EE9F8;
 }
+
+.about-me {
+	background-color: #efefef !important;
+}
+
+.finish a,
+.about-me a {
+	font-size: .8em;
+	color: #2B2E3B;
+}
+
+.start {
+	background-color: #2B2E3B !important;
+}
+
+.start h4 {
+	color: #9EE9F8 !important;
+}
+
+img {
+	background-color: transparent !important;
+	box-shadow: none !important;
+	border: none !important;
+}
+
+#logo-electron {
+	width: 500px;
+}
+
 
 p.center {
 	text-align: center;
