@@ -5,6 +5,7 @@ section span {
 
 body {
 	color: #9EE9F8;
+	font-family: Lobster;
 }
 
 .about-me {
@@ -33,10 +34,17 @@ body {
 }
 
 .where-use-it h3,
-.about-electron ul,
 .about-electron h3,
 .start h3 {
+	font-family: 'Open Sans';
 	color: #9EE9F8 !important;
+}
+
+.about-me a,
+.about-me,
+.about-electron ul,
+p {
+	font-family: 'Open Sans';
 }
 
 img {
@@ -47,22 +55,4 @@ img {
 
 #logo-electron {
 	width: 500px;
-}
-
-
-p.center {
-	text-align: center;
-}
-
-p.big {
-	font-size: 1.5em;
-}
-
-img.small {
-	vertical-align: middle;
-	padding-left: 30px;
-	width: 30%;
-	border: none !important;
-	box-shadow: none !important;
-	background-color: transparent !important;
 }
